@@ -1,0 +1,13 @@
+{
+  "name": "http_count",
+  "version": "1.0.0",
+  "description": "Задание",
+  "author": "Max <elderlom@gmail.com>",
+  "main": "http_serv.js",
+  "scripts": {
+    "start": "node http_serv.js"
+  },
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
